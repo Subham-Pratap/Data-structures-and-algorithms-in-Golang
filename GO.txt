@@ -1,0 +1,4 @@
+ https://github.com/search?l=Go&q=label%3A%22good+first+issue%22&type=Issues
+
+
+Golang's good first issues
